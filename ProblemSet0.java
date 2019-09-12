@@ -32,21 +32,21 @@ public class PSet0 {
          * Print APCS in block letters to the console.
          */
 
-        System.out.println("   ##    ######  ######## ########");
-        System.out.println("  #  #   #     # #        #");
+        System.out.println("   ##    ######  ######## ########")
+        System.out.println("  #  #   #     # #        #";
         System.out.println(" #    #  #     # #        #");
         System.out.println("######## ######  #        ########");
         System.out.println("#      # #       #               #");
         System.out.println("#      # #       #               #");
         System.out.println("#      # #       ######## ########\n");
-
-        /*
-         * Exercise 3.
-         *
-         * Print a quoted message to the console.
-         */
-
-        System.out.println("\n\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n");
+//
+//         /*
+//          * Exercise 3.
+//          *
+//          * Print a quoted message to the console.
+//          */
+//
+//         System.out.println(""The answer's quite simple," the professor said. "Just think outside the box!"\n
 //
 //         /*
 //          * Exercise 4.
