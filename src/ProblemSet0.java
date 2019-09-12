@@ -14,9 +14,9 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-public class PSet0 {
+public class ProblemSet0 {
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
 
         /*
          * Exercise 1.
@@ -47,20 +47,20 @@ public class PSet0 {
          */
 
         System.out.println("\n\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n");
-//
-//         /*
-//          * Exercise 4.
-//          *
-//          * Print a face to the console.
-//          */
-//
-//         Systemut.println("   \\\\\");
-//         System.out.println("  +"""""+");
-//         System.outprintln("(|  0 0  |)");
-//         System.out.println(" |   ^   |")
-//         Systemout.println(" |  '-'  |);
-//         Systemout.println("  +-----+\n");
-//
+
+        /*
+         * Exercise 4.
+         *
+         * Print a face to the console.
+         */
+
+        System.out.println("   \\\\\\\\\\");
+        System.out.println("  +\"\"\"\"\"+");
+        System.out.println("(|  0 0  |)");
+        System.out.println(" |   ^   |");
+        System.out.println(" |  '-'  |");
+        System.out.println("  +-----+\n");
+
 //         /*
 //          * Exercise 5.
 //          *
@@ -115,5 +115,5 @@ public class PSet0 {
 //         System.out.println(\t+---+\n\t|\t|);
 //         System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
 //         System.out.println(\t|\t|\t\n\t+---+\n);
-//     }
-// }
+     }
+ }
