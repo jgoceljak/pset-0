@@ -82,37 +82,37 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.println("Three.\tTwo.One.\tGo!\n");
+        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
         /*
-//          * Exercise 8.
-//          *
-//          * Print three diamonds to the console.
-//          */
-//
-//         System.out.println("  /\     /\     /\");
-//         System.out.println(" /  \   /  \   /  \");
-//         System.out.println("/    \ /    \ /    \");
-//         System.out.println("\    / \    / \    /");
-//         System.out.println(" \  /   \  /   \  /");
-//         System.out.println("  \/     \/     \/\n");
-//
-//         /*
-//          * Exercise 9.
-//          *
-//          * Print an encouraging message to the console.
-//          */
-//
-//         System.out.println("You're almost done with your first problem set...\n")
-//
-//         /*
-//          * Exercise 10.
-//          *
-//          * Print a plus sign to the console.
-//          */
-//
-//         System.out.println(\t+---+\n\t|\t|);
-//         System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
-//         System.out.println(\t|\t|\t\n\t+---+\n);
+         * Exercise 8.
+         *
+         * Print three diamonds to the console.
+         */
+
+        System.out.println("  /\\     /\\     /\\");
+        System.out.println(" /  \\   /  \\   /  \\");
+        System.out.println("/    \\ /    \\ /    \\");
+        System.out.println("\\    / \\    / \\    /");
+        System.out.println(" \\  /   \\  /   \\  /");
+        System.out.println("  \\/     \\/     \\/\n");
+
+        /*
+         * Exercise 9.
+         *
+         * Print an encouraging message to the console.
+         */
+
+        System.out.println("You're almost done with your first problem set...\n")
+
+        /*
+         * Exercise 10.
+         *
+         * Print a plus sign to the console.
+         */
+
+        System.out.println(\t+---+\n\t|\t|);
+        System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
+        System.out.println(\t|\t|\t\n\t+---+\n);
      }
  }
